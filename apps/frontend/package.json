@@ -29,6 +29,8 @@
     "cmdk": "^1.1.1",
     "embla-carousel-react": "^8.6.0",
     "framer-motion": "^12.23.24",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.3",
     "ky": "^1.13.0",
     "lucide-react": "^0.548.0",
     "react": "^19.1.1",
